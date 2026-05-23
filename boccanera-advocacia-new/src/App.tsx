@@ -17,7 +17,7 @@ function App() {
       <main className="main-content">
         <header className="App-header">
         <img 
-  src="/images/logo_boccanera_branco_sem_fundo.png" 
+  src="/images/logo.png" 
   alt="Boccanera Advocacia e Consultoria" 
   className="logo-img"
 />
