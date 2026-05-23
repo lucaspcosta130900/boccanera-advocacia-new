@@ -16,8 +16,11 @@ function App() {
     >
       <main className="main-content">
         <header className="App-header">
-          <div className="logo-title">BOCCANERA</div>
-          <div className="logo-subtitle">ADVOCACIA E CONSULTORIA</div>
+        <img 
+  src="/images/logo_boccanera_branco_sem_fundo.png" 
+  alt="Boccanera Advocacia e Consultoria" 
+  className="logo-img"
+/>
           <div className="landing-text">
             <div className="botoes-coluna">
               <a
