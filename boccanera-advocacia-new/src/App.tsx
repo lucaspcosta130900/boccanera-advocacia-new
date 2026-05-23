@@ -5,7 +5,7 @@ function App() {
     <div
       className="App"
       style={{
-        backgroundImage: "url('/images/fundo.jpeg')",
+        backgroundImage: "url('/images/foto-adv.jpeg')",
         backgroundSize: 'cover',
         backgroundPosition: 'center',
         backgroundRepeat: 'no-repeat',
