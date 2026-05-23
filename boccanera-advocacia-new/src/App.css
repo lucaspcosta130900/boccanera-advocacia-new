@@ -3,7 +3,7 @@
   width: 100%;
   display: flex;
   flex-direction: column;
-  background: url('/images/background.jpeg') no-repeat center center fixed;
+  background: url('/images/fundo.jpeg') no-repeat center center fixed;
   background-size: cover;
   font-family: 'Merriweather', 'Times New Roman', Times, serif;
 }
